@@ -1,0 +1,25 @@
+Link for Git download - https://git-scm.com/download/win
+O Git Bash é um terminal otimizado para o uso do Git.
+Link for React website - https://react.dev/
+
+|Guia de estudos|
+Meu objetivo como profissional é me tornar um desenvolvedor front-end,
+e com base nisso, estou criando um guia de estudos a partir deste repositório
+Git, acredito que poderá me ajudar bastante na minha evolução como desenvolvedor.
+
+|O que devo estudar?|
+As principais ferramentas que um dev.front-end utiliza são: HTML, CSS, JS, e algum framework 
+para incluir no trabalho, já desenvolvi o básico de web e agora vou me aprofundar em
+JavaScript e o framework que escolhi é o React, muito usado para desenvolvimento web.
+
+|Pilares do estudo|
+HTML - Introdução / Tags básicas / Meta tags / Listas / Tabelas / Formulários / HTML semântico
+CSS - Introdução / Seletores / Box Model / Posicionamento / Flexbox /
+Pseudo classes e elementos / Media queries
+JS - Introdução / Variáveis, tipos de dados e operadores / Estruturas condicionais /
+Arrays / Objetos / Estrutura de repetição / Manipulação de string / Manipulação de datas/
+Funções / Manipulação de arrays / Módulos
+REACT - Introdução / Componentes / State Hook e evento onClick / Rotas / Props / Deploy
+
+|Bibliografia|
+
